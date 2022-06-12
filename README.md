@@ -1,6 +1,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selfie-bd&repo=autofilterv5&theme=tokyonight)](https://github.com/selfie-bd/autofilterv5&bg_color=#24292F) 
 
-## Try This [GitHub.com/selfie-bd/Evamaria](GitHub.com/selfie-bd/Evamaria)
 
  ## <b>Autofilterv5</b>
 </h1>
@@ -34,7 +33,7 @@
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/Selfie-bd/autofilterv5/blob/master/info.py) for more
+
 
 
 ## Deploy
@@ -43,49 +42,9 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Selfie-bd/autofilterv5">
+<a href="https://heroku.com/deploy?template=https://github.com/kaal0408/Moviesverse">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
 
-<details><summary>Deploy To VPS</summary>
-<p>
-<pre>
-git clone https://github.com/Selfie-bd/autofilterv5
-# Install Packages
-pip3 install -U -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
-</pre>
-```
-## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/groupdc)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/groupdcbots)
-
-## Credits 
-* [![autofilterv5-Devs](https://img.shields.io/static/v1?label=autofilterv5&message=devs&color=critical)](https://telegram.dog/Selfiebd)
-
-
-## Thanks to 
- ⌬ Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- ⌬ Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
- ⌬ Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
- ⌬ Thanks To All Everyone In This Journey
-
-### Note
-
-[Note To A So Called Dev](https://telegram.dog/selfiebd): 
-
-Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo won't make you a Developer.
-Fork the repo and edit as per your needs.
-
-## Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/master/LICENSE)
-Selling The Codes To Other People For Money Is *Strictly Prohibited*.
-
-## Inspiration
-This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/GetTGLink/4187)
-
-[![For Vaza](https://telegra.ph/file/ef7b1c3c340bef450fe72.jpg)](https://telegra.ph/file/ef7b1c3c340bef450fe72.jpg "Oru Kootam Vazhakalk samarpikkunnu")
